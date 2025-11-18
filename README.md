@@ -1,5 +1,4 @@
 # 📊 Business Sale Dashboard – Power BI Project
-
 This repository contains the **Business Sale Dashboard** created using **Power BI (.pbip project format)**.  
 It provides interactive insights into sales performance, product trends, customer behavior, and overall business growth to support data-driven decisions.
 
@@ -9,7 +8,6 @@ It provides interactive insights into sales performance, product trends, custome
 ## 🚀 Overview
 
 This dashboard helps businesses:
-
 - Analyze **total sales**, **revenue**, and **profit**  
 - Identify **top-selling** and **low-performing** products  
 - Understand **customer segments** and buying patterns  
@@ -19,9 +17,7 @@ This dashboard helps businesses:
 ---
 
 ## 🛠️ Tools & Technologies Used
-
 | Tool / Technology | Purpose |
-|------------------|---------|
 | **Power BI (.pbip)** | Visual reporting & model generation |
 | **Power Query** | Data cleaning & transformation |
 | **DAX** | KPIs and calculated measures |
@@ -67,7 +63,6 @@ This dashboard helps businesses:
 ## 🤝 Contributing
 
 Contributions are welcome!
-
 1. Fork this repository  
 2. Create a feature branch  
 3. Commit your changes  
@@ -76,5 +71,4 @@ Contributions are welcome!
 ---
 
 
----
 
