@@ -2,7 +2,7 @@
 This repository contains the **Business Sale Dashboard** created using **Power BI (.pbip project format)**.  
 It provides interactive insights into sales performance, product trends, customer behavior, and overall business growth to support data-driven decisions.
 
-<img width="1118" height="626" alt="Screenshot 2025-11-18 223517" src="https://github.com/user-attachments/assets/43caa5e4-a962-4f72-bd67-d7292d6bb2af" />
+<img width="1118" height="626" alt="image" src="https://github.com/user-attachments/assets/d8e475ca-2fbc-4491-94b0-4d9d47d6d920"  />
 
 
 ---
